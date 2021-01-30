@@ -24,7 +24,7 @@ sleep(3)
 
 system('clear')
 
-print(f'''{B}*By PoisonBR{RT}
+print(f'''{B}*oi{RT}
 {G}██████╗███╗   ███╗██████╗ {C}██████╗██████╗███╗   ██╗██████╗ ██████╗██████╗ 
 {G}██╔═══╝████╗ ████║██╔═══╝ {C}██╔═══╝██╔═══╝████╗  ██║██╔══██╗██╔═══╝██╔══██╗
 {G}██████╗██╔████╔██║██████╗ {C}██████╗████╗  ██╔██╗ ██║██║  ██║████╗  ██████╔╝
@@ -104,7 +104,7 @@ try:
 
 except KeyboardInterrupt:
 	print(f'{C}Cancelado pelo usuário.')
-	print(f'{C}Me acompanhe no Github: {G}https://github.com/p0isonBR{C}\n')
+	print(f'{C}Me acompanhe no Github: {G}oi{C}\n')
 	exit(f'{R}Ctrl+C pressionado{C}')
 
-print(f'{C}Me acompanhe no Github: {G}https://github.com/p0isonBR{C}\n')
+print(f'{C}Me acompanhe no Github: {G}oi{C}\n')
